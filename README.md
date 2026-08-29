@@ -1,4 +1,4 @@
-# 🎯 SkillGap AI
+#  SkillGap AI
 
 ### AI-Powered Skill Gap Analyzer for Career Readiness
 
@@ -8,7 +8,7 @@ Users upload their resume, select a target career role, and receive a skill-gap 
 
 ---
 
-## 🚀 Problem Statement
+##  Problem Statement
 
 Students and job seekers often don't know exactly what skills they need to develop for their desired job role.
 
@@ -23,7 +23,7 @@ This makes career preparation inefficient and confusing.
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 SkillGap AI analyzes a user's resume and compares the detected skills against the requirements of a selected target job role.
 
